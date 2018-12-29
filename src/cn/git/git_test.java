@@ -2,18 +2,6 @@ package cn.git;
 
 public class git_test {
     public static void main(String[] args) {
-        System.out.println("hello git!!");
-        System.out.println("hello git!!");
-        System.out.println("hello git!!");
-        System.out.println("hello git!!");
-        System.out.println("hello git!!");
-        System.out.println("hello git!!");
-        System.out.println("hello git!!");
-        System.out.println("hello git!!");
-        System.out.println("hello abd");
-        System.out.println("hello abd");
-        System.out.println("hello abd");
-        System.out.println("hello abd");
         System.out.println("hello abd");
         //添加一个循环
         System.out.println("hello git!!");
